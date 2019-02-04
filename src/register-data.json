@@ -1,0 +1,10 @@
+{
+    "user":
+    {
+        "email":"mail@mail.pl",
+        "password":"pass123",
+        "name":"Marta",
+        "phone":"12312313",
+        "address":"Wroclaw"
+    }
+}
